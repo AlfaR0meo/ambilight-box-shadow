@@ -108,6 +108,8 @@ body {
   font-weight: 700;
   line-height: 1.4;
   color: white;
+  border-radius: 1em;
+  
   position: relative;
   isolation: isolate;
 }
