@@ -10,8 +10,6 @@
 @import "./reset";
 // ■■■■■ БАЗОВЫЕ СТИЛИ ■■■■■■■■■■■■■■■
 @import "./base";
-// ■■■■■ ПРЕЛОАДЕР ■■■■■■■■■■■■■■■■■■■
-//@import "./preloader";
 /* ■■■■■ СТИЛИ САЙТА ■■■■■■■■■■■■■■■■■ */
 // sass --watch scss/main.scss css/style.css
 
@@ -43,6 +41,8 @@
     line-height: 1.4;
 
     color: white;
+    
+    border-radius: 1em;
     
     // outline: 3px solid;
     // outline-offset: -3px;
